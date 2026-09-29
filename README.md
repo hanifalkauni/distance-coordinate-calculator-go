@@ -1,5 +1,7 @@
 # Distance Coordinate Calculator (Go)
 
+[![CI](https://github.com/hanifalkauni/distance-coordinate-calculator-go/actions/workflows/ci.yml/badge.svg)](https://github.com/hanifalkauni/distance-coordinate-calculator-go/actions/workflows/ci.yml)
+
 An idiomatic Go port of the PHP/Laravel package
 [`alkauni/distance-coordinate-calculator`](https://github.com/hanifalkauni/distance-coordinate-calculator-package).
 Calculate geographical distance between GPS coordinates, check radius bounds,
